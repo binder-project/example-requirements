@@ -2,7 +2,7 @@
 
 A Binder-compatibible repo with a `requirements.txt` file.
 
-The file should contain all Python dependencies that your notebooks depend on, and they will be installed using 
+The `requirements.txt` file should list all Python libraries that your notebooks depend on, and they will be installed using 
 
 ```
 pip install -r requirements.txt
