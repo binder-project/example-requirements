@@ -2,7 +2,7 @@
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/binder-project/example-requirements)
 
-A Binder-compatibible repo with a `requirements.txt` file.
+A Binder-compatible repo with a `requirements.txt` file.
 
 The `requirements.txt` file should list all Python libraries that your notebooks depend on, and they will be installed using 
 
