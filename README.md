@@ -1,7 +1,7 @@
 # Example Binder with requirements.txt
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/binder-project/example-requirements)
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/binder-project/example-requirements)
+[![Binder](http://mybinder.org/badge.svg)]()
 
 A Binder-compatible repo with a `requirements.txt` file.
 
