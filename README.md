@@ -1,10 +1,16 @@
+# THIS REPOSITORY IS DEPRECATED, SEE BELOW FOR THE UP-TO-DATE VERSION
+
+New version: https://github.com/binder-examples/requirements
+
+---
+
 # Example Binder with requirements.txt
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/binder-project/example-requirements)
 
 A Binder-compatible repo with a `requirements.txt` file.
 
-The `requirements.txt` file should list all Python libraries that your notebooks depend on, and they will be installed using 
+The `requirements.txt` file should list all Python libraries that your notebooks depend on, and they will be installed using
 
 ```
 pip install -r requirements.txt
