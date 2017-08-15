@@ -1,6 +1,9 @@
-# THIS REPOSITORY IS DEPRECATED, SEE BELOW FOR THE UP-TO-DATE VERSION
+:fire: :fire:
+# THE BINDER PROJECT HAS MIGRATED [HERE](https://github.com/jupyterhub/binderhub), SEE BELOW FOR THE NEW LINK
 
-New version: https://github.com/binder-examples/requirements
+**New version:** https://github.com/jupyterhub/binderhub
+
+:fire: :fire:
 
 ---
 
